@@ -196,11 +196,6 @@ function wc_custom_delivery_init() {
 
 			$this->add_rate( $args );
 		}
-
-		public function wc_custom_delivery_description() {
-			xdebug_break();
-			return $this->description;
-		}
 	}
 
 	function woocommerce_add_custom_delivery( $methods ) {
