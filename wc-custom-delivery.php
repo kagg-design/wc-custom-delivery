@@ -9,7 +9,7 @@
  *
  * Plugin Name:       WooCommerce Custom Delivery
  * Plugin URI:        https://kagg.eu/en/
- * Description:       Adds delivery method «В другие регионы» (textual description).
+ * Description:       Adds delivery method «To other regions» (textual description).
  * Version:           1.0
  * Requires at least: 4.4
  * Requires PHP:      7.4
